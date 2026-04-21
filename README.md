@@ -1,9 +1,6 @@
 ## Hi!
 I'm Tobias, a Software Engineer at Vipps MobilePay in Oslo, Norway. 
 
-
-![spinning cat gif](https://media.tenor.com/sbfBfp3FeY8AAAAj/oia-uia.gif)
-
 <!--
 **alldentobias/alldentobias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
